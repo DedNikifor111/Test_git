@@ -4,7 +4,7 @@ import time
 
 link = "http://suninjuly.github.io/file_input.html"
 
-
+#Тестовый коммент
 try:
     browser = webdriver.Chrome()
     browser.get(link)
